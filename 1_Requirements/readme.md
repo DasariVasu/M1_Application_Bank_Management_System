@@ -72,7 +72,7 @@ Mainly this project is developed and used to avoid some loss for the Customers.
 #### Low Level Requirements:
 |   ID  | Description	 | Status                                   |
 | ----- | ------------------ | ---------------------------------------- |
-| LLR 1 | Basic operation	 | To generate a bills                      |
+| LLR 1 | Basic operation	 | To generate the Transactions                       |
 | LLR 2 | Crud operation   	 | To create, update and delete the records |
 | LLR 3 | Multifile Approach | To reduce a code structure               |
 
