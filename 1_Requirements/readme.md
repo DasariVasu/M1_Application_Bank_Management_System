@@ -57,12 +57,15 @@ The Modules description of Bank Account Management System project.These modules 
 5. Open/Close Account.  
 6. Withdraw/Deposit Money.
 # 4W's and 1'H
-This project is to Maintain and Managing the Customer details up to date.
-Mainly this project is developed and used to avoid some loss for the Customers. 
-1. Connecting to the database.  
-2. Inserting account details.  
-3. Updating the balance on any withdrawal or deposits made.
-4. Time consuming.
+What : Bank Management is essential for keeping digital records of customer's banking data.
+
+Where : To overall maintaince becomes a easily.
+
+When : All added and edited records are saved in a file.
+
+Why : The tools organise this information in a way that makes it easy for you to find the entires again the data may also be searchable.
+
+How: It works in an simple logic what are we used for bank management system we have to use this using an System applications.
 # Detail requirements
 #### High Level Requirements:
 |   ID  | Description	|        Status         |
