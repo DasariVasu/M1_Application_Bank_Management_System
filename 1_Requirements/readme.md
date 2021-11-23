@@ -71,7 +71,7 @@ How: It works in an simple logic what are we used for bank management system we 
 |   ID  | Description	|        Status         |
 | ----- | ----------------- | --------------------- |
 | HLR 1 | Login & Sign up   | Users need to access  |
-| HLR 2 | Search filter     | filter by Balance and Transactions |
+| HLR 2 | Search filter     | Filter by Balance and Transactions |
 #### Low Level Requirements:
 |   ID  | Description	 | Status                                   |
 | ----- | ------------------ | ---------------------------------------- |
