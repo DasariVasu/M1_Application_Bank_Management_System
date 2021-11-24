@@ -1,6 +1,4 @@
-# Test-Plan
-
-## HighLevel
+# High Level Test Plan
 
 | Test ID |     Test Scenario     |     Test Data     |
 | ------- | --------------------- | ----------------- |
@@ -10,6 +8,8 @@
 |    4    |    Transfer Money     | Enter a Choice : 3, It is used to Transfer Money |
 |    5    |     Check Balance     | Enter a Choice : 4, It is used to Check Balance |
 |    6    |          Exit         | Enter a Choice : 5, For exit the Panel |
+
+# Expected Output
 
 |  ID  |     Expected Output     |
 | ---- | ----------------------- |
