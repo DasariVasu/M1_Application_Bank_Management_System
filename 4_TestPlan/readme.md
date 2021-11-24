@@ -1,4 +1,4 @@
-# High level Test Plan
+# High-level Test Plan
 | Test ID |     Test Scenario     |     Test Data     |
 | ------- | --------------------- | ----------------- |
 |    1    |       Main Menu       | [1] Create Account, [2] Sign In, [3] Transfer Money,[4] Check Balance, [5] Exit |
