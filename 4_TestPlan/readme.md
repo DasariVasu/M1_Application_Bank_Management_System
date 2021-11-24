@@ -1,4 +1,6 @@
-# HighLevel-TestPlan
+# TestPlan
+
+## HighLevel
 
 | Test ID |     Test Scenario     |     Test Data     |
 | ------- | --------------------- | ----------------- |
